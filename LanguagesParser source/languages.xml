@@ -1,0 +1,32 @@
+<languages>
+  <language>
+    <name>english</name>
+	  <ts_1>START</ts_1>
+    <ts_2>OPTIONS</ts_2>
+    <ts_3>EXIT</ts_3>
+    <ts_4>CHANGE LANGUAGE</ts_4>
+    <prompt_requestpacket>REQUEST DATA</prompt_requestpacket>
+    <prompt_pickup>PICK UP [DATA]</prompt_pickup>
+    <system_message_1>New [DATA] available for pickup</system_message_1>
+  </language>
+  <language>
+    <name>spanish</name>
+	  <ts_1>EMPEZAR</ts_1>
+    <ts_2>OPCIONES</ts_2>
+    <ts_3>SALIR</ts_3>
+    <ts_4>CAMBIAR LENGUAJE</ts_4>
+    <prompt_requestpacket>SOLICITAR [DATOS]</prompt_requestpacket>
+    <prompt_pickup>RECOGER [DATOS]</prompt_pickup>
+    <system_message_1>Nuevos [DATOS] estan disponibles para recoger</system_message_1>
+  </language>
+  <language>
+    <name>日本語</name>
+	  <ts_1>スタート</ts_1>
+    <ts_2>設定</ts_2>
+    <ts_3>終わる</ts_3>
+    <ts_4>言語を変わる</ts_4>
+    <prompt_requestpacket>[データ]　を　頼む</prompt_requestpacket>
+    <prompt_pickup>[データ]　を　取る</prompt_pickup>
+    <system_message_1>新しい ［データ] が　出現された</system_message_1>
+  </language>
+</languages>
